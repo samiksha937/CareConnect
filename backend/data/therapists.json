@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Smith",
+    "specialization": "Psychologist",
+    "fees": 500,
+    "availability": "Mon-Fri 10AM-4PM",
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Meera",
+    "specialization": "Counselor",
+    "fees": 700,
+    "availability": "Tue-Sat 11AM-5PM",
+    "location": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Dr. David",
+    "specialization": "Therapist",
+    "fees": 600,
+    "availability": "Mon-Thu 9AM-3PM",
+    "location": "Bangalore"
+  }
+]
